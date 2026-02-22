@@ -1,0 +1,4 @@
+# Minecraft session locks
+session.lock
+# Temporary files
+*.tmp
